@@ -24,7 +24,7 @@ p result
 end
 result = num1+num2
 def square_root(num)
-  result= num.sqrt
+  result= Math.sqrt(num)
   p result
 
 end
