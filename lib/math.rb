@@ -1,3 +1,5 @@
+$num1 = gets
+$num2 = gets
 def addition(num1, num2)
 result = num1 + num2
 p result
