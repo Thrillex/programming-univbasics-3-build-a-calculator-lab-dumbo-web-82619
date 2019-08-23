@@ -8,8 +8,9 @@ p result
 end
 
 def subtraction(num1, num2)
-  
-result = num1-num2
+first = num1
+second = num2
+result = first + second
 p result
 end
 
